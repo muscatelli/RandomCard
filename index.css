@@ -1,0 +1,32 @@
+body {
+    background-color: green;
+}
+
+.card {
+    
+    width: 325px;
+    border-radius: 4px;
+    background-color: white;
+    margin: auto;
+    margin-top: 150px;
+}
+
+.emo{
+    font-size: 100px;
+    
+    
+}
+.num{
+    font-size: 100PX;
+    margin-left: 140px; 
+        
+}
+.emo2{
+    font-size: 100px;  
+    margin-left: 256px;
+}
+
+.rotate{
+    transform: rotate(365deg)
+}
+
